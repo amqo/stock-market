@@ -1,4 +1,4 @@
-package com.plcoding.stockmarketapp.data.remote.dto
+package com.plcoding.stockmarketapp.data.local
 
 import androidx.room.Dao
 import androidx.room.Insert
