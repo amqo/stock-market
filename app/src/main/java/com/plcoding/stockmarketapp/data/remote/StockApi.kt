@@ -1,7 +1,6 @@
 package com.plcoding.stockmarketapp.data.remote
 
 import com.plcoding.stockmarketapp.data.remote.dto.CompanyInfoDto
-import com.plcoding.stockmarketapp.data.remote.dto.IntradayInfoDto
 import okhttp3.ResponseBody
 import retrofit2.http.GET
 import retrofit2.http.Query

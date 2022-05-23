@@ -3,7 +3,6 @@ package com.plcoding.stockmarketapp.data.csv
 import com.opencsv.CSVReader
 import com.plcoding.stockmarketapp.data.mapper.toIntradayInfo
 import com.plcoding.stockmarketapp.data.remote.dto.IntradayInfoDto
-import com.plcoding.stockmarketapp.domain.model.CompanyListing
 import com.plcoding.stockmarketapp.domain.model.IntradayInfo
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
